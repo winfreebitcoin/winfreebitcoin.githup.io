@@ -1,0 +1,99 @@
+
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Prompt:400,700&display=swap');
+@import url(https://weloveiconfonts.com/api/?family=entypo);
+
+body{
+	margin:0px;
+}
+header{
+	background:black;
+	color:white;
+	padding:5px 10px 6px 20px;
+	height:65px;
+} 
+header h1{
+	display:inline;
+	font-family: 'Righteous', cursive
+	font-weight:300;
+	font-size:30px;
+	float:left;
+	margin-top:0px;
+	margin-right:0px;
+}
+nav ul{
+	display:inline;
+	padding:.5px;
+	float:right;
+}
+nav ul li{
+	display:inline-block;
+	list-style-type:none;
+	color:white;
+	float:left;
+	margin:8px;
+	width:10;
+height:10;
+font-size:5;
+}
+nav ul li a{
+	color:white;
+text-decoration:none
+}
+#nav{
+font-family: 'Crimson Text', serif;
+}
+.homered{
+	background-color:red;
+	padding:45px 10px 1px 15px;
+}
+.divider{
+	background-color:red;
+	height:7px
+}
+.fwimage1{
+	background-image: url( 'bitcoin.jpg');
+	height:200%;
+	margin:0px;
+	padding:400px 300px 150px 400px
+}
+.homesub{
+	margin:0px;
+	
+font-family: 'Prompt', sans-serif;
+padding:109px 105px 10px 5px;
+font-size:45px;
+color:red;
+}
+.button{
+	color:black;
+	background:yellow;
+	border:none;
+	height:50%;
+font-size:1.5em;}
+h3{ margin:20px;}
+
+.h4{
+  font-size:1.5em;
+}
+p{ font-size:1em;}
+#wrapper{
+	width:350px;
+	height:100px;
+	margin:50px;
+}
+.box{
+	width:50px;
+	border-radius:100px;
+	font-family:'entypo', sans-serif;
+	color:black;
+	background:black;
+	text-align:center;
+	line-height:50px;
+	font-family:50px;
+	display:inline-blockblock;
+	cursor:pointer;
+	margin:10px;
+}
+}
